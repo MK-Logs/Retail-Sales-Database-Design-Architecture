@@ -1,3 +1,3 @@
 # Retail Sales Database Design Architecture
 
-![ERD Diagram Schema](/Data/ERD Diagram Schema.PNG)
+![ERD Diagram Schema](/Data/ERD_Diagram_Schema.PNG)
